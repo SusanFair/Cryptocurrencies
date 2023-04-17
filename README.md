@@ -1,19 +1,31 @@
 # Cryptocurrencies
 
 ## Overview
+This project uses unsupervised learning perform an analysis on Cryptocurency exchange for an offerin in the new portolio.  Processing of the data included
+preprocessing, clustering, reducing the dimensionand and principal components of the source data with PCA.
 
-
-
-
-Unsupervised Machine Learning
-Martha is a senior manager for the Advisory Services Team at Accountability Accounting, one of your most important clients. Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. So, they’ve asked you to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
-
+The output of the analysis will create a report on the cryptocurrencies trading currently and how these can be grouped to create a classification system for the new portolio.
 
 ## Results
+* Preprocessing for PCA<br>
+![Alt text](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/proprocess_pca.PNG)
 
+* Dimension reduction with PCA
+![Alt text](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/dimension_reduction_pca.PNG)
+
+* Clustering with K-means<br>
+![Alt text](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/Kmeans_elbow_curve.PNG)
+
+![Alt text](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/kmeans.PNG)
+
+* Visualization of Cryptocurrency Results
+![Alt text](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/interactive_pca_data.PNG)
+
+![Alt text](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/scaled_data.PNG)
 
 ## Resources
-
+The analysis notebook can be reviewed here:  [Crypto Clustering Notebook](https://github.com/SusanFair/Cryptocurrencies/blob/main/crypto_clustering.ipynb)
 
 
 ## Summary
+
