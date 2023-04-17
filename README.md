@@ -13,14 +13,15 @@ The output of the analysis will create a report on the cryptocurrencies trading 
 * <b>Dimension reduction with PCA</b><br><br>
 ![Dimension Reduction](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/dimension_reduction_pca.PNG)
 
-* <b>Clustering with K-means</b><br><br>
+* <b>Clustering with K-means</b><br>
 <br>![Elbow Curve for Kmeans](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/Kmeans_elbow_curve.PNG)
 
-![Alt text](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/kmeans.PNG)
+![K-means data](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/kmeans.PNG)
 
 * <b>Visualization of Cryptocurrency Results</b><br><br>
-![Alt text](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/interactive_pca_data.PNG)
+![Interactive Chart](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/interactive_pca_data.PNG)
 
+![Scatter Diagram](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/scaled_data_chart.PNG)
 
 ## Resources
 The analysis notebook can be reviewed here:  [Crypto Clustering Notebook](https://github.com/SusanFair/Cryptocurrencies/blob/main/crypto_clustering.ipynb)
