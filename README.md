@@ -7,18 +7,18 @@ preprocessing, clustering, reducing the dimensionand and principal components of
 The output of the analysis will create a report on the cryptocurrencies trading currently and how these can be grouped to create a classification system for the new portolio.
 
 ## Results
-* <b>Preprocessing for PCA</b><br>
+* <b>Preprocessing for PCA</b><br><br>
 ![Preprocessing](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/preprocess_pca.PNG)
 
-* Dimension reduction with PCA<br>
+* <b>Dimension reduction with PCA</b><br><br>
 ![Dimension Reduction](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/dimension_reduction_pca.PNG)
 
-* Clustering with K-means<br>
+* <b>Clustering with K-means</b><br><br>
 <br>![Elbow Curve for Kmeans](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/Kmeans_elbow_curve.PNG)
 
 ![Alt text](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/kmeans.PNG)
 
-* Visualization of Cryptocurrency Results<br>
+* <b>Visualization of Cryptocurrency Results</b><br><br>
 ![Alt text](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/interactive_pca_data.PNG)
 
 
