@@ -21,7 +21,7 @@ The output of the analysis will create a report on the cryptocurrencies trading 
 * <b>Visualization of Cryptocurrency Results</b><br><br>
 ![Interactive Chart](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/interactive_pca_data.PNG)
 
-![Scatter Diagram](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/scaled_data_chart.PNG)
+![Scatter Diagram](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/scaled_data_scatter_chart.PNG)
 
 ## Resources
 The analysis notebook can be reviewed here:  [Crypto Clustering Notebook](https://github.com/SusanFair/Cryptocurrencies/blob/main/crypto_clustering.ipynb)
