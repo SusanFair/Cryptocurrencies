@@ -1,10 +1,10 @@
 # Cryptocurrencies
 
 ## Overview
-This project uses unsupervised learning to perform an analysis on the Cryptocurency exchange for an future offering in a new portolio.  Processing of the data included
+This project uses unsupervised learning to perform an analysis on the Cryptocurency exchange for a future offering in a new portolio.  Processing of the data included
 preprocessing, clustering, reducing the dimensions and principal components of the source data with PCA.
 
-The output of the analysis will create a report on the cryptocurrencies trading currently and how these can be grouped to create a classification system for the new portolio.
+The output of the analysis will assist in creating report on the cryptocurrencies trading currently and how these can be grouped to create a classification system for the new portolio.
 
 ## Results
 * <b>Preprocessing for PCA</b><br><br>
