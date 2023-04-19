@@ -1,8 +1,8 @@
 # Cryptocurrencies
 
 ## Overview
-This project uses unsupervised learning perform an analysis on Cryptocurency exchange for an offerin in the new portolio.  Processing of the data included
-preprocessing, clustering, reducing the dimensionand and principal components of the source data with PCA.
+This project uses unsupervised learning to perform an analysis on the Cryptocurency exchange for an future offering in a new portolio.  Processing of the data included
+preprocessing, clustering, reducing the dimensions and principal components of the source data with PCA.
 
 The output of the analysis will create a report on the cryptocurrencies trading currently and how these can be grouped to create a classification system for the new portolio.
 
@@ -15,6 +15,8 @@ The output of the analysis will create a report on the cryptocurrencies trading 
 
 * <b>Clustering with K-means</b><br>
 <br>![Elbow Curve for Kmeans](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/Kmeans_elbow_curve.PNG)
+
+* <b>Predictions</b><br>
 
 ![K-means data](https://github.com/SusanFair/Cryptocurrencies/blob/main/Resources/kmeans.PNG)
 
@@ -29,3 +31,4 @@ The analysis notebook can be reviewed here:  [Crypto Clustering Notebook](https:
 
 ## Summary
 
+The model was successful in that it created a classification system resulting in grouping or classifying the trading BitCoin offerings into 4 classes.  
